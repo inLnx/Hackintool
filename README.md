@@ -1,4 +1,5 @@
-# Hackintool
+# The owner has stopped working on hackintool, so I have forked it
+ # Hackintool
 
 *The Swiss army knife of vanilla Hackintoshing*
 
